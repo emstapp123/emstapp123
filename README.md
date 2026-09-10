@@ -1,131 +1,89 @@
+<!--MYCC-PORTFOLIO-META:%7B%22v%22%3A3%2C%22github%22%3A%22emstapp123%2Femstapp123%22%2C%22name%22%3A%22Elizabeth%20Stapp%22%2C%22email%22%3A%22elizabeth.stapp%40mycomputercareer.com%22%2C%22linkedin%22%3A%22%22%2C%22resume%22%3A%22%22%2C%22bio%22%3A%22%22%2C%22themeIdx%22%3A0%2C%22skills%22%3A%5B%22CompTIA%20A%2B%22%5D%2C%22headlines%22%3A%5B%22IT%20Professional%22%5D%2C%22customHeadlines%22%3A%5B%5D%2C%22customSkills%22%3A%5B%5D%2C%22certs%22%3A%5B%7B%22name%22%3A%22A%2B%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fwww.credly.com%2Fearner%2Fearned%2Fbadge%2Ff66408bb-7051-4570-a502-8291160d7a73%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Project%20%2B%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fwww.credly.com%2Fearner%2Fearned%2Fbadge%2F395349a9-865f-45ea-a534-63b20cf40e1b%22%2C%22badge%22%3A%22%22%7D%2C%7B%22name%22%3A%22Server%20%2B%22%2C%22issuer%22%3A%22%22%2C%22link%22%3A%22https%3A%2F%2Fwww.credly.com%2Fearner%2Fearned%2Fbadge%2F030ea821-2811-4c5d-b1a4-4d031b8a9c6f%22%2C%22badge%22%3A%22%22%7D%5D%2C%22customLabs%22%3A%7B%221%22%3A%5B%5D%2C%222%22%3A%5B%5D%2C%223%22%3A%5B%5D%2C%224%22%3A%5B%5D%2C%225%22%3A%5B%5D%2C%226%22%3A%5B%5D%7D%7D-->
+
 <div align="center">
 
-<img src="https://github.com/emstapp123/emstapp123.png?size=200" width="155" height="155" style="border-radius:50%;border:4px solid #8250df;" alt="Elizabeth Stapp" />
+<img src="https://github.com/emstapp123/emstapp123.png" width="150" style="border-radius:50%;border:4px solid #0969da"/>
 
-# Hi there! I'm Elizabeth Stapp
+# Hi there, I'm Elizabeth Stapp
 
-### Elizabeth Stapp
+**Elizabeth Stapp**
 
 *IT Professional*
 
-[![GitHub](https://img.shields.io/badge/GitHub-@emstapp123%2Femstapp123-8250df?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emstapp123/emstapp123)
-[![Email](https://img.shields.io/badge/Email-Contact-8250df?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elizabeth.stapp@mycomputercareer.com)
+[![GITHUB](https://img.shields.io/badge/GITHUB-%40emstapp123/emstapp123-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emstapp123/emstapp123) [![EMAIL](https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elizabeth.stapp@mycomputercareer.com)
 
 </div>
 
 ---
 
-## 💼 Professional Summary
+## Professional Summary
 
-_Add your professional summary on the left._
-
----
-
-## 🛠️ Skills Learned
-
-**🖥️ Tech Essentials:**
-![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-8250df?style=flat-square)
+*Add your professional summary above to display it here.*
 
 ---
 
-## 📚 Course Portfolio
+## Skills Learned
 
-<details>
-<summary>🌐 Course 1: Networking I</summary>
+🛠️ Other Skills: ![CompTIA A+](https://img.shields.io/badge/CompTIA%20A%2B-0969da?style=flat-square)
 
-> Foundational networking concepts, protocols, and hands-on configuration exercises.
+---
 
-| Lab | Lab Title | Status |
-|---|---|---|
-| Lab 1.1 | Network Topology & Design | ⏳ Upcoming |
-| Lab 1.2 | IP Addressing & Subnetting | ⏳ Upcoming |
-| Lab 1.3 | Router & Switch Configuration | ⏳ Upcoming |
-| Lab 1.4 | VLAN Implementation | ⏳ Upcoming |
-| Lab 1.5 | Network Troubleshooting | ⏳ Upcoming |
+## 🏆 Certifications & Digital Badges
 
-</details>
-
-<details>
-<summary>🖥️ Course 2: Computer & Security</summary>
-
-> Hardware fundamentals, operating system essentials, and introductory security concepts.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Week 1 | Learning Lab — Teachable Machine | ⏳ Upcoming |
-| Week 5 | Learning Lab — Creating a Business Model using AI | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>⚙️ Course 3: Operating Systems I</summary>
-
-> Windows and Linux administration, file systems, and system management tools.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Week 3 | Learning Lab — Scripting and Automation (Budget Tracker) | ⏳ Upcoming |
-| Week 5 | Learning Lab — Beginner PowerShell Lab: System Information, Services, and Reporting | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>🗄️ Course 4: Server I</summary>
-
-> Active Directory, DNS/DHCP, group policy management, and enterprise server infrastructure.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Lab 4.1 | Active Directory Setup | ⏳ Upcoming |
-| Lab 4.2 | DNS & DHCP Configuration | ⏳ Upcoming |
-| Lab 4.3 | Group Policy Management | ⏳ Upcoming |
-| Lab 4.4 | File & Print Services | ⏳ Upcoming |
-| Lab 4.5 | Remote Access & VPN | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>🛡️ Course 5: Network & Security</summary>
-
-> Advanced network security architecture, SIEM operations, and incident response procedures.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Lab 5.1 | Network Security Architecture | ⏳ Upcoming |
-| Lab 5.2 | SIEM Configuration | ⏳ Upcoming |
-| Lab 5.3 | Incident Response Procedures | ⏳ Upcoming |
-| Lab 5.4 | Wireless Security Implementation | ⏳ Upcoming |
-| Lab 5.5 | Cloud Network Security | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>🔒 Course 6: Security I</summary>
-
-> Cryptography, firewalls, vulnerability assessment, and defensive security frameworks.
-
-| Lab | Lab Title | Status |
-|---|---|---|
-| Lab 6.1 | Security Fundamentals & CIA Triad | ⏳ Upcoming |
-| Lab 6.2 | Cryptography & PKI | ⏳ Upcoming |
-| Lab 6.3 | Firewall Configuration | ⏳ Upcoming |
-| Lab 6.4 | IDS/IPS Deployment | ⏳ Upcoming |
-| Lab 6.5 | Vulnerability Assessment | ⏳ Upcoming |
-
-</details>
-
-<details>
-<summary>🏆 Challenge Labs — Advanced Milestones</summary>
-
-> Multi-disciplinary capstone projects integrating skills from all six courses.
-
-| Challenge | Title | Domains | Status |
+| Certification | Issuer | Verify | Badge |
 |---|---|---|---|
-| **CL-01** | Secure Enterprise Network Build | Networking + Security | ⏳ Upcoming |
-| **CL-02** | Active Directory Attack & Defense | Security + Server | ⏳ Upcoming |
-| **CL-03** | Cloud Infrastructure Deployment | Cloud + OS | ⏳ Upcoming |
-| **CL-04** | Incident Response Full Scenario | All Domains | ⏳ Upcoming |
+| A+ |  | [Verify](https://www.credly.com/earner/earned/badge/f66408bb-7051-4570-a502-8291160d7a73) | — |
+| Project + |  | [Verify](https://www.credly.com/earner/earned/badge/395349a9-865f-45ea-a534-63b20cf40e1b) | — |
+| Server + |  | [Verify](https://www.credly.com/earner/earned/badge/030ea821-2811-4c5d-b1a4-4d031b8a9c6f) | — |
+
+---
+
+## Course Portfolio
+
+<details>
+<summary><strong>Course 1: Networking I</strong></summary>
+
+*No labs added yet.*
 
 </details>
 
-<!--MYCC-PORTFOLIO-META:{"name":"Elizabeth Stapp","email":"elizabeth.stapp@mycomputercareer.com","linkedin":"","repo":"","github":"emstapp123/emstapp123","bio":"","themeId":"purple","skills":["CompTIA A+"],"headlines":["IT Professional"],"customHeadlines":[],"certs":[]}-->
+<details>
+<summary><strong>Course 2: Computer & Security Essentials</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 3: Operating Systems I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 4: Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 5: Server I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+<details>
+<summary><strong>Course 6: Networking & Security I</strong></summary>
+
+*No labs added yet.*
+
+</details>
+
+---
+
+<div align="center">
+<sub>Built with the <a href="https://mycceducation.azurewebsites.net">MyComputer Career Digital Portfolio Builder</a> · ITSA Program</sub>
+</div>
