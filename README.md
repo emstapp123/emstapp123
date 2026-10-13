@@ -47,7 +47,7 @@ I am an experienced IT professional and educator with a strong background in sys
 | A+ |  | [Verify](https://www.credly.com/users/elizabeth-owens.dd7deef5/edit/badges/credly) | <a href="https://credly.com" title="Elizabeth Stapp's CompTIA A+ badge"> <img src="https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="Elizabeth Stapp's A+ badge" width="100" height="100" /> </a> |
 | Project + |  | [Verify](https://www.credly.com/users/elizabeth-owens.dd7deef5/edit/badges/credly) | <a href="https://credly.com" title="Elizabeth Stapp's CompTIA Project+ badge"> <img src="https://images.credly.com/images/16e139a1-0b3d-4bef-a0c6-56356ad944a6/blob" alt="Elizabeth Stapp's A+ badge" width="100" height="100" /> </a> |
 | Server + |  | [Verify](https://www.credly.com/users/elizabeth-owens.dd7deef5/edit/badges/credly) | <a href="https://credly.com" title="Elizabeth Stapp's CompTIA Server+ badge"> <img src="https://images.credly.com/images/07378420-4407-4f09-a4d7-9301d87dec34/blob" alt="Elizabeth Stapp's A+ badge" width="100" height="100" /> </a> |
-| Microsoft Certified: Security, Compliance, and Identity Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/en-us/users/elizabethstapp-0620/credentials?tab=credentials-tab) | https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main |
+| Microsoft Certified: Security, Compliance, and Identity Fundamentals | Microsoft | [Verify](https://learn.microsoft.com/en-us/users/elizabethstapp-0620/credentials?tab=credentials-tab) | ![](https://learn.microsoft.com/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg?branch=main) |
 ---
 
 ## Course Portfolio
