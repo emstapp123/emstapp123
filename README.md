@@ -44,7 +44,7 @@ I am an experienced IT professional and educator with a strong background in sys
 
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
-| A+ |  | [Verify](https://www.credly.com/earner/earned/badge/f66408bb-7051-4570-a502-8291160d7a73) | — |
+| A+ |  | [Verify](https://www.credly.com/earner/earned/badge/f66408bb-7051-4570-a502-8291160d7a73) | <a href="https://credly.com" title="Elizabeth Stapp's CompTIA A+ badge"> <img src=https://images.credly.com/size/340x340/images/f6d62c5d-1e1d-4de6-92ee-8dc8c80b1c7b/blob" alt="Elizabeth Stapp's A+ badge" width="100" height="100" /> </a> |
 | Project + |  | [Verify](https://www.credly.com/earner/earned/badge/395349a9-865f-45ea-a534-63b20cf40e1b) | — |
 | Server + |  | [Verify](https://www.credly.com/earner/earned/badge/030ea821-2811-4c5d-b1a4-4d031b8a9c6f) | — |
 
