@@ -40,7 +40,7 @@ I am an experienced IT professional and educator with a strong background in sys
 
 ---
 
-## 🏆 Certifications & Digital Badges
+## 🏆 Certifications 
 
 | Certification | Issuer | Verify | Badge |
 |---|---|---|---|
